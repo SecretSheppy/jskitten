@@ -1,0 +1,25 @@
+{
+    "name": "jskitten",
+    "version": "1.0.0",
+    "description": "don't forget to feed your jskittens",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+    "type": "git",
+        "url": "git+https://github.com/SecretSheppy/jskitten.git"
+    },
+    "keywords": [
+        "jskitten"
+    ],
+    "author": "SecretSheppy",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SecretSheppy/jskitten/issues"
+    },
+    "homepage": "https://github.com/SecretSheppy/jskitten#readme"
+}
